@@ -36,16 +36,6 @@ const About = () => {
             <div className="flex items-start gap-3 py-4">
               <IoArrowForward size={30} className="mt-1" />
               <span>
-                <h1 className="text-xl md:text-2xl font-semibold">Database Developer</h1>
-                <p className="text-sm md:text-md leading-tight">
-                  Developed and maintained database schemas, stored procedures, and optimized queries to ensure efficient data retrieval and storage.
-                </p>
-              </span>
-            </div>
-
-            <div className="flex items-start gap-3 py-4">
-              <IoArrowForward size={30} className="mt-1" />
-              <span>
                 <h1 className="text-xl md:text-2xl font-semibold">Backend Developer</h1>
                 <p className="text-sm md:text-md leading-tight">
                   Developed and maintained server-side logic, APIs, and database integration to support web applications.
