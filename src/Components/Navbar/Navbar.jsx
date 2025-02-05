@@ -22,9 +22,9 @@ const Navbar = () => {
             Skills
           </li>
         </a>
-        <a href="#Experience">
+        <a href="#Education">
           <li className="text-md transition-all duration-300 p-1 md:p-0">
-            Experience
+            Education
           </li>
         </a>
         <a href="#Projects">
