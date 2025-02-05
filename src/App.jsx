@@ -3,6 +3,7 @@ import Navbar from "./Components/Navbar/Navbar";
 import About from "./Components/About/About";
 import Skills from "./Components/Skills/Skills";
 import Education from "./Components/Education/Education";
+import Project from "./Components/Projects/Project";
 function App() {
   return (
     <div className="bg-[#171d32] h-auto w-full overflow-hidden">
@@ -10,7 +11,8 @@ function App() {
       <Home />
       <About />  
       <Skills/>          
-      <Education/>          
+      <Education/>    
+      <Project/>      
     </div>
   );
   
