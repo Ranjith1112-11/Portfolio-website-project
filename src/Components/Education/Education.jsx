@@ -29,7 +29,7 @@ const experience = [
     description: "Developed the NetFi Portal with ReactJS for dynamic UI, enabling seamless plan selection, recharges, and profile management. Implemented admin functionalities using Springboot for CRUD operations. Built optimized RESTful APIs for managing prepaid/postpaid plans and user transactions.",
     icon: "💼",
   },
-];
+]; 
 
 const Education = () => {
   return (

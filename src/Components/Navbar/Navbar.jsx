@@ -27,7 +27,7 @@ const Navbar = () => {
             Education
           </li>
         </a>
-        <a href="#Projects">
+        <a href="#Project">
           <li className="text-md transition-all duration-300 p-1 md:p-0">
             Projects
           </li>

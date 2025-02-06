@@ -4,6 +4,7 @@ import About from "./Components/About/About";
 import Skills from "./Components/Skills/Skills";
 import Education from "./Components/Education/Education";
 import Project from "./Components/Projects/Project";
+import ContactForm from './Components/Contactform/Contactform';
 function App() {
   return (
     <div className="bg-[#171d32] h-auto w-full overflow-hidden">
@@ -13,6 +14,7 @@ function App() {
       <Skills/>          
       <Education/>    
       <Project/>      
+      <ContactForm/>
     </div>
   );
   

@@ -23,7 +23,7 @@ const projects = [
     id: 3,
     name: "Malicious Query Attack Detection using ANN",
     technologies: "Deep Learning ",
-    languages: ["Python", "BeautifulSoup", "PHP", "SQL"],
+    languages: ["Python", "BeautifulSoup", "PHP", "MySQL"],
     image: employeeMSImage,
     github: "https://github.com/Ranjith1112-11/malicious-query-detection",
   },
@@ -32,7 +32,7 @@ const projects = [
 const Project = () => {
   return (
     <section className="text-white py-20" id="projects">
-      <div className="max-w-6xl mx-auto px-8 md:px-16 lg:px-24">
+      <div id="Project" className="max-w-6xl mx-auto px-8 md:px-16 lg:px-24">
         <h2 className="text-4xl font-bold text-center mb-12">My Projects</h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
